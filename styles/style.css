@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+}
+
+header {
+    background-image: url(../images/banner/banner2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 685px;
+    width: 1360px;
+
+}
+
+.head-bar {
+    padding-left: 650px;
+    padding-top: 200px;
+    height: 400px;
+    width: 400px;
+}
+
+.head-title {}
